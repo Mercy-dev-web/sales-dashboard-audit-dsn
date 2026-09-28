@@ -23,9 +23,9 @@ My job: audit the data, fix the dashboard, and confirm or reject each claim with
 4. Tested all 8 management claims against the cleaned data — verdicts and evidence are in the report.
 
 ## Files
-- `MercyIjegbai_DataAnalytics_FinalProject.xlsx` — cleaned data + dashboard
-- `dashboard.png` — dashboard snapshot
-- `report.pdf` — written audit report with claim-by-claim verdicts
+- '![Excel Document](MercyIjegbai_DataAnalytics_FinalProject.xlsx)' — cleaned data + dashboard 
+- '![Dashboard](dashboard.png)' — dashboard snapshot ![Dashboard](dashboard.png)
+- '![Report](report.png) — written audit report with claim-by-claim verdicts
 
 ## What I learned
 Never trust a dashboard's totals until you've recomputed them from the raw rows.
